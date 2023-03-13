@@ -225,9 +225,6 @@
     - **Non-primitive data structures** are not defined by the programming language but rather by the programmer. These include linear data structures, static data structures, and dynamic data structures, like queue and linked lists.
         1. Array
             - The most basic of all data structures, an array stores data in memory for later use. Each array has a fixed number of cells decided on its creation, and each cell has a corresponding numeric index used to select its data. Whenever you’d like to use the array, all you need are the desired indices, and you can access any of the data within.
-                
-                ![Screenshot 2023-03-12 154512.png](JavaScript%20e82076a904d14c93afca48fcee34c669/Screenshot_2023-03-12_154512.png)
-                
             - **Advantages**
                 - Simple to create and use.
                 - Foundational building block for complex data structures
